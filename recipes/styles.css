@@ -1,6 +1,6 @@
 * {
   background-color: aliceblue;
-  font-family: "Courier New", Courier, monospace;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 h1 {
@@ -10,12 +10,3 @@ h1 {
 h2 {
   color: brown;
 }
-h3 {
-  color: #ff7a00;
-}
-
-ul {
-  list-style: circle;
-}
-
-
